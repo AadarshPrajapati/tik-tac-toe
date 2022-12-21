@@ -1,0 +1,20 @@
+.container{
+    margin-top: 15px;
+}
+
+
+#table{
+    margin-top: 50px;
+}
+
+td{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.symbol{
+    font-size: 50px;
+}
